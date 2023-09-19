@@ -3,15 +3,13 @@
 
 ### Table of Contents
 
-| No. | Questions                                                                                                                                                     |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |                                                                                                                  |
-| 1  | [What is Hoisting](#what-is-hoisting)                                                                                                                         |                                                                                                     |
-| 2  | [What are closures](#what-are-closures)                                                                                                                       |                                                                                                      |
-| 3  | [What are the three states of promise and Why do we need a promise?](#what-are-the-three-states-of-promise-and-why-do-we-need-a-promise)                                                                                                               |
-
-| 4  | [What is the difference between state and props](#what-is-the-difference-between-state-and-props)                                                                                                               |                                                                       |
-
-| 5  | [Why should we not update the state directly?](#why-should-we-not-update-the-state-directly)                                                                                                               |
+| No. | Questions |
+| --- | --- |
+| 1 | [What is Hoisting](#what-is-hoisting) |
+| 2 | [What are closures](#what-are-closures) |
+| 3 | [What are the three states of promise and Why do we need a promise?](#what-are-the-three-states-of-promise-and-why-do-we-need-a-promise) |
+| 4 | [What is the difference between state and props](#what-is-the-difference-between-state-and-props) |
+| 5 | [Why should we not update the state directly?](#why-should-we-not-update-the-state-directly) |
 
 
 1. ### What is Hoisting
